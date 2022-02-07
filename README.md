@@ -3,7 +3,7 @@
 As a team we thought of combining some classic games that occupies a large part of our memories in **"well designed"** gaming platform ,  gathering all the information that we've learned during this semester. we tried to produce a result that meets the absolute dedication of our dear teacher .
 
 ## table of contents 
-___
+
 - Introduction 
 - home interface
 - 2048 game
@@ -28,7 +28,6 @@ ___
 
 
 ## Introduction:
-___
 
 *We've developed 2 games in this project so we thought of creating a home page in which we can choose what game we want to play , its main job is to redirect us  back in forth between the games.*
 * *we tried to make a clean, simple home interface with animated pushButtons.*  (as you can see in the GIF below)
@@ -86,7 +85,7 @@ and here is the impletation code
 ![image](https://user-images.githubusercontent.com/79703342/152720122-daf97f18-aaa7-4358-9a64-5c879870dd2c.png)
 
 ## THE IDEA!
-___
+
 Since there would be no animations, the cells should be static, 2 main approaches came to my mind:
 * *We create a class in which we link the number with  the color of each case (2,4,8,16...), and then display them in **16 widgets** depending on which number exists in which cell *(too long I couldn't even explain it properly*).*
 * *We create a normal grid in which we do the math and we display the content of it in the form of pictures, so whenever the content of the grid change, we change the border image of the appropriate item in our* *layout (UI)*.    ***the one we used!***
@@ -142,7 +141,7 @@ Since there would be no animations, the cells should be static, 2 main approache
 
 
 ## THE ALGORITHM!
-___
+
 ***NOTE: We 've managed to create this after reading some articles about the game and discussing it with some of our colleagues, so you sir might spot some similarities.***
 1. **Let's start by the WIN and LOSE conditions:**
 ### It's not that hard, why do I keep losing?!

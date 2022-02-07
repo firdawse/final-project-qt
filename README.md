@@ -622,7 +622,7 @@ bool MainWindow::winCheck(){
   if(t==0)
         timer->start(1000);
 ```
-  - and it stops if we click on a bomb ,that's why  we've addes this line of code to the end of the bigbang function
+  - and it stops if we click on a bomb ,that's why  we've added this line of code to the end of the bigbang function
   
 ```cpp
   timer->stop();

@@ -319,8 +319,7 @@ Since there would be no animations, the cells should be static, 2 main approache
       </br>
 
 	![My Video5](https://user-images.githubusercontent.com/79703342/152832166-fb67183c-3c34-4e97-8b3d-7350407f136c.gif)
-
-##   DONE !  
+  **DONE !**  
 
 # 2.Minesweeper
 

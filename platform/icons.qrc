@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>a.jpg</file>
+        <file>2048.png</file>
+        <file>back.png</file>
+        <file>bomb.png</file>
+        <file>box.png</file>
+        <file>classic.mp3</file>
+        <file>click.mp3</file>
+        <file>dead.png</file>
+        <file>flag.png</file>
+        <file>mute.png</file>
+        <file>smile.png</file>
+        <file>sound.png</file>
+        <file>w.mp3</file>
+        <file>win.mp3</file>
+        <file>0.png</file>
+        <file>2.png</file>
+        <file>4.png</file>
+        <file>8.png</file>
+        <file>16.png</file>
+        <file>32.png</file>
+        <file>64.png</file>
+        <file>128.png</file>
+        <file>256.png</file>
+        <file>512.png</file>
+        <file>1024.png</file>
+        <file>2048back.png</file>
+        <file>demi.png</file>
+        <file>demi.jpg</file>
+    </qresource>
+</RCC>

@@ -1,6 +1,6 @@
 # HELLO and WELCOME
 
-As a team we thought of combining some classic games that occupies a large part of our memories in **"well designed"** gaming platform ,  gathering all the information that we've learned during this semester. we tried to produce a result that meets the absolute dedication of our dear teacher .
+As a team we thought of combining some classic games that occupy a large part of our memories in **"well designed"** gaming platform ,  gathering all the information that we've learned during this semester. we tried to produce a result that meets the absolute dedication of our dear teacher .
 
 ## table of contents 
 
